@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/codewithshiv26/leetcode-solutions/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/codewithshiv26/leetcode-solutions/tree/master/0260-single-number-iii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/codewithshiv26/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/codewithshiv26/leetcode-solutions/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/codewithshiv26/leetcode-solutions/tree/master/0260-single-number-iii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/codewithshiv26/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Math
 |  |
 | ------- |
